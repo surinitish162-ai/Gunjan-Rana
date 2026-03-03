@@ -13,13 +13,11 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Water Baby],
-
-
+ const message = `Water Baby,
 
 Happy Birthday! 🎉
 
-— [Nitish suri]`;
+- Nitish suri`;
 
   // Handle page transitions
   useEffect(() => {
