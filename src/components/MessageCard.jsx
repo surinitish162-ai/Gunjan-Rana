@@ -15,7 +15,10 @@ function MessageCard({ isActive }) {
 
  const message = `Water Baby,
 
-Happy Birthday! 🎉
+Ab coder ka Bday hai to thora coder style wish . Gemini ki help se kra hai Ovio. But thats not the point.
+Wishing a very happy bday to one of the very few persons in the world jinke saath i can say anything that comes in my mind.
+I wish you all the success and happiness in your future. Just be yourself and stay strong in every aspect of life . 
+Bss Jyada senti nhi hua jaata mujhse. Enjoy your day and Holi🎉
 
 - Nitish suri`;
 
